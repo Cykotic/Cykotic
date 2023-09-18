@@ -30,6 +30,6 @@
 <h3 align="center">⋆ тнє ℓαzιєѕт αмσηg тнєм αℓℓ. ⋆ ᴛʀᴜꜱᴛᴇᴅ ʙʏ ᴍᴀɴʏ ⋆ </h3>
 
 <p align="center">
-    <img src="[https://discord.c99.nl/widget/theme-1/253986575682109441.png](https://discord.c99.nl/widget/theme-2/253986575682109441.png)https://discord.c99.nl/widget/theme-2/253986575682109441.png" />
+    <img src="https://discord.c99.nl/widget/theme-2/253986575682109441.png" />
 </p>
 </p>
